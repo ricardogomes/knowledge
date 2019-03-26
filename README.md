@@ -6,7 +6,7 @@ All my public notes, thoughts, links and lists organized in a way that makes sen
 
 My main inspiration for this knowledge base was [Nikita Botolev](https://github.com/nikitavoloboev)'s repo, also called [knowledge](https://github.com/nikitavoloboev/knowledge) and the repos listed on [Richard Litt](https://github.com/RichardLitt)'s [Meta Knowledge](https://github.com/RichardLitt/meta-knowledge#readme) repo.
 
-The idea is to use this repo, and it's integration with GitBook, to write down the things I'm learning on my various areas of interest, and to keep some logs for future review.
+The idea is to use this repo, and it's integration with GitBook, to write down the things I'm learning on my various areas of interest, and to keep some logs and lists for future review.
 
 This wiki|repo uses these tools:
 

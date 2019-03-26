@@ -13,4 +13,4 @@ Notes, Links that I've yet to process.
 - https://github.com/zudochkin/awesome-newsletters
 - https://github.com/jondot/awesome-devenv
 - https://github.com/RichardLitt/awesome-fantasy
-
+- https://blog.hasura.io/
