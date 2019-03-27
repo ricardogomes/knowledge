@@ -14,7 +14,7 @@ This wiki|repo uses these tools:
 - [github](https://github.com): code repository for both file management and to connect with the next tool
 - [gitbook](https://www.gitbook.com/): website / "book" dynamicaly generated from the github repository
 
-If you want to contribute to this repo you can, I'm not viewing this as a only me project, but as a way to curate knowledge. So do a PR for whatever you want to change or ask me anything with an issue.
+If you want to contribute to this repo you can, I'm not viewing this as a only me project, but as a way to curate knowledge. So do a PR for whatever you want to change or AMA with an issue.
 
 
 ## Main Pages
