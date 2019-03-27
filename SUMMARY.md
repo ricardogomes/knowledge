@@ -1,6 +1,7 @@
 # Summary
 
 - [Inbox](inbox.md)
+- [Log](log/log.md)
   - [Diary](log/diary/diary.md)
     - [2019](log/diary/2019)
       - [March](log/diary/2019/march.md)
@@ -8,7 +9,6 @@
   - [Videos](log/videos.md)
   - [TV Series](log/tvseries.md)
   - [Movies](log/movies.md)
-- [Log](log/log.md)
 - [Lists](lists/lists.md)
 - [Knowledge](knowledge/knowledge.md)
   - [IT](knowledge/it/it.md)
