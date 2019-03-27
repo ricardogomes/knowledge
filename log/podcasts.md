@@ -4,6 +4,13 @@
 
 ### March
 
+#### 27 - Wednesday
+
+- The Cyberwire: [Episode 806](https://thecyberwire.com/podcasts/cw-podcasts-daily-2019-03-25.html): Mueller finds no evidence on colusion in Trump's campaing with Rusia. 
+- Software Engineering Daily [Security Businesses with Steve Herrod](https://softwareengineeringdaily.com/2019/03/26/security-businesses-with-steve-herrod/): A talk with Steve Herrod, a venture capitalist working in the security space. 
+- The Daily [Why Controlling 5G Could Mean Controlling the World](https://www.nytimes.com/2019/02/25/podcasts/the-daily/5g-technology-huawei-china-us.html): A discussion about the pressure from the USA to it's allies to not use China's technology companies (Huawey) for 5G implementations.
+- 
+
 #### 26 - Tuesday
 
 - Software Engineering Daily  [Apache Superset with Maxime Beauchemin](https://softwareengineeringdaily.com/2019/03/22/apache-superset-with-maxime-beauchemin/): Apache Superset is a open source Business Intelegence tool that seems to focus on the ease of use. One of their business propositions is that you don't need to be a developer or data engineer to use this tool. Maxime Beauchemin is the creator of [Superset](https://superset.incubator.apache.org/) and [AirFlow](https://airflow.apache.org/)

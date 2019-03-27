@@ -21,12 +21,11 @@ If you want to contribute to this repo you can, I'm not viewing this as a only m
 
 [Inbox](inbox.md): my inbox
 
-[Log](Log/index.md): my various logs ( diary, books read, podcasts listen, etc)
+[Log](log/log.md): my various logs ( diary, books read, podcasts listen, etc)
 
-[Lists](Lists/index.md): my lists and pointers to other people's lists that I find usefull
+[Lists](lists/lists.md): my lists and pointers to other people's lists that I find usefull
 
-[Special Knowledge](Special/index.md): starting point for areas of knowledge that are special to me. Either areas that I work on professionaly, or that I have a hobby in.
+[Knowledge](knowledge/knowledge.md): starting point for areas of knowledge that are of interest to me.
 
-[General Knowledge](General/index.md): other areas of knowledge that do not fit on Special.
 
 
