@@ -5,6 +5,7 @@
   - [Diary](log/diary/diary.md)
     - [2019](log/diary/2019)
       - [March](log/diary/2019/march.md)
+  - [Podcasts](log/podcasts.md)
   - [Books](log/books.md)
   - [Videos](log/videos.md)
   - [TV Series](log/tvseries.md)
