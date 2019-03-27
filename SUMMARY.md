@@ -2,7 +2,7 @@
 
 - [Inbox](inbox.md)
   - [Diary](log/diary/diary.md)
-    - [2019](log/diary/diary.md#2019)
+    - [2019](log/diary/2019)
       - [March](log/diary/2019/march.md)
   - [Books](log/books.md)
   - [Videos](log/videos.md)
