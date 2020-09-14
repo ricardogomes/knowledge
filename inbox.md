@@ -11,12 +11,15 @@ Notes, Links that I've yet to process.
 
 
 ## important links
-- https://aws.amazon.com/pt/blogs/aws/building-serverless-apps-with-components-from-the-aws-serverless-application-repository/
-- https://medium.com/the-apps-team/build-a-serverless-data-pipeline-with-aws-s3-lamba-and-dynamodb-5ecb8c3ed23e
 - https://www.weave.works/blog/10-tips-for-building-and-managing-containers
 - https://rogerwelin.github.io/aws/serverless/terraform/lambda/2019/03/18/build-a-serverless-website-from-scratch-with-lambda-and-terraform.html
 - https://www.wezm.net/technical/2019/02/alpine-linux-docker-infrastructure/
+- https://medium.com/@tomastrajan/total-guide-to-custom-angular-schematics-5c50cf90cdb4
 - 
+
+## Videos to review
+
+- https://www.youtube.com/watch?v=F9qczwJE-Qg
 
 ## unclassified links:
 
@@ -54,16 +57,71 @@ Notes, Links that I've yet to process.
 - https://engineering.docker.com/
 - https://blog.getpostman.com/2018/12/11/postman-supports-openapi-3-0/?mkt_tok=eyJpIjoiTTJNeVpUSTFOVGRoT1RBMiIsInQiOiJSSVBrUnJQZjRlZmxSWjdUVlF5eElzWEdWOXpNOEo3Z2MxbE9yXC84NWJnSmpYSVNTVDRTUFBFbzVcL1pYOTA1bDZTWEhDNEpGajFoVWJjaG5SWVIyMWdiTVV5QWdlZ3dPdnlpVDRmQXRBcWlsd3pkaHRFR0xKd2x2cGM2b1Z2dWFDIn0%3D
 - https://www.digitalocean.com/resources/kubernetes/?utm_medium=email&utm_source=internal&utm_campaign=DOK8sResources
+- https://smile.amazon.co.uk/Kano-Computer-Kit-Touch-tablet/dp/B07H1YDJ12/ref=pd_bxgy_21_2/262-3891581-5719544?_encoding=UTF8&pd_rd_i=B07H1YDJ12&pd_rd_r=bb93a7bf-516a-11e9-85c1-518c014959eb&pd_rd_w=Zhi30&pd_rd_wg=Rshs6&pf_rd_p=07e3e597-b71b-4701-a3fd-d79c50f48406&pf_rd_r=TFRHBYC434NCPJPVA6GJ&psc=1&refRID=TFRHBYC434NCPJPVA6GJ
+- https://vas3k.com/
+- https://www.youtube.com/channel/UC66Gh9Ka82fpnDqRwnu6qWw
+- https://galaxy.ansible.com/dev-sec/os-hardening
+- https://dev-sec.io/baselines/linux/
+- https://github.com/AcalephStorage/awesome-devops
+- https://github.com/devsecops/awesome-devsecops
+- https://github.com/joubertredrat/awesome-devops
+- https://github.com/binhnguyennus/awesome-scalability
+- https://github.com/Lets-DevOps/awesome-learning
+- https://github.com/rootsongjc/awesome-cloud-native
+- https://github.com/shuaibiyy/awesome-terraform
+- https://medium.com/unsplash/what-does-unsplash-cost-in-2019-f499620a14d0
+- https://www.mongodb.com/blog/post/build-a-slack-app-in-10-minutes-with-mongodb-stitch?jmp=cpress&utm_campaign=WW_CP_newsletter_sponsorship&utm_content=20190329&utm_medium=display&utm_source=javascriptweekly
+- https://css-tricks.com/creating-a-reusable-pagination-component-in-vue/
+- https://martinfowler.com/articles/domain-oriented-observability.html
+- https://cloud.google.com/code/docs/vscode/quickstart
+- https://github.com/auchenberg/vscode-browser-preview
+- https://securitycheckli.st/?utm_source=CSS-Weekly&utm_campaign=Issue-357&utm_medium=email
+- https://github.com/ForrestKnight/open-source-cs
+- https://areknawo.com/getting-creative-with-the-console-api/
+- https://www.netlify.com/
+- https://github.com/lukehoban/es6features#readme
+- https://www.hackster.io/camow7/embedded-angular-with-raspberry-pi-e4500a?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_298
+- https://blog.angularindepth.com/how-to-start-flying-with-angular-and-ngrx-b18e84d444aa
+- https://dnsflagday.net/
+- https://nodesource.com/blog/deploying-nodejs-microservices-to-ZEIT
+- https://snyk.io/blog/making-sense-of-package-lock-files-in-the-npm-ecosystem/
+- https://www.cooksillustrated.com/articles/518-the-best-way-to-bake-a-sweet-potato
+- https://www.ted.com/talks/johann_hari_everything_you_think_you_know_about_addiction_is_wrong?language=en
+- http://2ality.com/2019/04/nodejs-esm-impl.html
+- https://medium.com/@nodejs/introducing-node-js-12-76c41a1b3f3f
+- https://medium.com/@nodejs/announcing-a-new-experimental-modules-1be8d2d6c2ff
+- https://gravitational.com/gravity
+- https://read.iopipe.com/how-far-out-is-aws-fargate-a2409d2f9bc7
+- https://aws.amazon.com/blogs/infrastructure-and-automation/up-your-aws-cloudformation-testing-game-using-taskcat/
+- https://nodejs.org/en/blog/release/v12.2.0/
+- https://nitayneeman.com/posts/all-talks-from-ng-conf-2019/<Paste>
+- https://github.com/lirantal/dockly
+- https://www.codacy.com/
+- https://medium.com/netflix-techblog/python-at-netflix-bba45dae649e
+- https://www.infoworld.com/article/3331603/pythons-popularity-surges-as-a-mainstay-language.html
+- https://getcssscan.com/
+- https://github.com/servian/aws-auto-remediate
+- https://www.hashicorp.com/blog/announcing-terraform-0-12
+- https://www.lastweekinaws.com/blog/right-sizing-your-instances-is-nonsense/
+- https://pythonspeed.com/articles/dockerizing-python-is-hard/
+- https://www.atlassian.com/blog/technology/aws-scaling-multi-region-low-latency-service
+- https://belly.io/programming
+- https://aws.amazon.com/blogs/aws/new-opt-in-to-default-encryption-for-new-ebs-volumes/
+- https://github.com/features/package-registry
+- https://quickchart.io/
+- https://blog.logrocket.com/
+- https://blog.angular.io/version-8-of-angular-smaller-bundles-cli-apis-and-alignment-with-the-ecosystem-af0261112a27
+- https://github.com/mqttjs/MQTT.js
+- https://caddyserver.com/
 - 
+ 
 
 
 
 ## Events
 
-- 2019 Google Cloud Security Talks
-- RSA 20198
-- Google Cloud Next ’19
-- AWS Summit
-- DockerCon
-  
-  
+ 
+## Specific ToDos:
+
+- [Jeff Geerling](https://www.jeffgeerling.com/): checkout his project on a raspbery cluster for kubernetes
+- 

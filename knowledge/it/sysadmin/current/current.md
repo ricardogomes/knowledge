@@ -12,10 +12,12 @@
 ### OS
 
 - Arch Linux
-- I3
+
+### Window Manager
+- XMonad
 
 ### Apps
 
-- st: suckless terminal
-- calcurse
-- 
+- alacritty : terminal emulator
+- neovim : text editor ( and a lot more )
+-  
