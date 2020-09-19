@@ -27,5 +27,5 @@ If you want to contribute to this repo you can, I'm not viewing this as a only m
 
 [Knowledge](knowledge/knowledge.md): starting point for areas of knowledge that are of interest to me.
 
-
+[CheatSheets](./cheatsheets/index.md)
 
