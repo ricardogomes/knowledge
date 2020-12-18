@@ -1,5 +1,13 @@
 # Lists
 
+## My Lists
+
+- [Movies](./movies.md)
+- [Books](./books)
+- [TvSeries](./tvseries)
+- [Videos](./videos)
+- [Other People's Lists](./lists)
+
 ## Development Tools to review
 
 - [Hasura](https://hasura.io/): GraphQL over Postgres

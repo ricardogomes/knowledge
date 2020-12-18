@@ -5,4 +5,4 @@
 
 Add user to group (secondary)
 
-usermod -a -G <group> <user>
+usermod -a -G group user

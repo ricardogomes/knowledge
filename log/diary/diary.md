@@ -3,6 +3,7 @@
 ## 2020
 
 [September](./2020/september.md)
+[December](./2020/december.md)
 
 ## 2019
 

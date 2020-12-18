@@ -10,7 +10,8 @@ The idea is to use this repo, and it's integration with GitBook, to write down t
 
 This wiki|repo uses these tools:
 
-- [vimwiki](https://github.com/vimwiki/vimwiki) : vim plugin to create wikis easily.
+- ~~[vimwiki](https://github.com/vimwiki/vimwiki) : vim plugin to create wikis easily.~~
+- [Obsidian](https://obsidian.md/): Obsidian is a powerful knowledge base that works on top of a local folder of plain text Markdown files. 
 - [github](https://github.com): code repository for both file management and to connect with the next tool
 - [gitbook](https://www.gitbook.com/): website / "book" dynamicaly generated from the github repository
 
@@ -23,7 +24,7 @@ If you want to contribute to this repo you can, I'm not viewing this as a only m
 
 [Log](log/log.md): my various logs ( diary, books read, podcasts listen, etc)
 
-[Lists](lists/lists.md): my lists and pointers to other people's lists that I find usefull
+[Lists](lists/index.md): my lists and pointers to other people's lists that I find usefull
 
 [Knowledge](knowledge/knowledge.md): starting point for areas of knowledge that are of interest to me.
 
