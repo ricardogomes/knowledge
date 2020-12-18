@@ -3,7 +3,7 @@
 These are my logs 
 
 
-[Diary](diary/diary.md): diary like lists of interesting things
+[Diary](./diary/diary.md): diary like lists of interesting things
 
 [Books](./books.md): read lists
 
