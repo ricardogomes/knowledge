@@ -22,9 +22,9 @@ If you want to contribute to this repo you can, I'm not viewing this as a only m
 
 [Inbox](inbox.md): my inbox
 
-[Log](log/log.md): my various logs ( diary, books read, podcasts listen, etc)
+[Log](./log/log.md): my various logs ( diary, books read, podcasts listen, etc)
 
-[Lists](lists/index.md): my lists and pointers to other people's lists that I find usefull
+[Lists](./lists/index.md): my lists and pointers to other people's lists that I find usefull
 
 [Knowledge](knowledge/knowledge.md): starting point for areas of knowledge that are of interest to me.
 
